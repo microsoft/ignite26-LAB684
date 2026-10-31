@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB684: Zero Trust for AI workshop
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Work the Zero Trust for AI Workshop hands-on. Baseline your environment, apply the new DevSecOps and AI memory guidance, and leave with a prioritized 12-24 month roadmap across identity, devices, data, network, AI and SecOps.
 
 ### 🚀 Getting started
 
