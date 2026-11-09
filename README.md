@@ -32,7 +32,7 @@ Fill in the sections below yourself, then:
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥LAB684: Zero Trust for AI workshop
+## 🔥LAB684: Zero Trust for AI: Securing Agents in Your Organization
 ### Session description
 
 Work the Zero Trust for AI Workshop hands-on. Baseline your environment, apply the new DevSecOps and AI memory guidance, and leave with a prioritized 12-24 month roadmap across identity, devices, data, network, AI and SecOps.
